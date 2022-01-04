@@ -1,0 +1,17 @@
+1. A 2. B 3. C 4. C
+1. C 2. A 3. C 4. B
+1. PEOPLE 2. WEEKS 3. POSSIBLE 4. HIKING
+1. A 2. C 3. C 4. B
+1. B 2. C 3. B 4. A
+
+1. C 2. B 3. C 4. B
+1. C 2/ A 3. B 4. B
+1. LAKE 2. OTHER 3. ABOUT 4. FEET
+1. B 2. C 3. A 4. C
+1. A 2. A 3. B 4. C
+
+1. C 2. C 3. A 4. B
+1. C 2. B 3. B 4. A
+1. YEAR 2. BASEBALL 3. PICTURES 4. PLAYERS
+1. B 2. C 3. C 4. A
+1. A 2. C 3. B 4. C

@@ -1,0 +1,14 @@
+﻿  grading.cpp
+D:\Work\CEC\TestKeyProgram\TestKey\TestKey\grading.cpp(30,92): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  input.cpp
+  interfaceQuestions.cpp
+D:\Work\CEC\TestKeyProgram\TestKey\TestKey\interfaceQuestions.cpp(59,36): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  stringList.cpp
+D:\Work\CEC\TestKeyProgram\TestKey\TestKey\stringList.cpp(18,36): warning C4018: '<': signed/unsigned mismatch
+D:\Work\CEC\TestKeyProgram\TestKey\TestKey\stringList.cpp(24,36): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\Work\CEC\TestKeyProgram\TestKey\TestKey\interfaceQuestions.cpp(87): warning C4715: 'NguyenM2::getEnglishSubjects': not all control paths return a value
+D:\Work\CEC\TestKeyProgram\TestKey\TestKey\interfaceQuestions.cpp(72): warning C4715: 'NguyenM2::getClass': not all control paths return a value
+D:\Work\CEC\TestKeyProgram\TestKey\TestKey\interfaceQuestions.cpp(102): warning C4715: 'NguyenM2::getScienceSubjects': not all control paths return a value
+  TestKey.vcxproj -> D:\Work\CEC\TestKeyProgram\TestKey\Debug\TestKey.exe
